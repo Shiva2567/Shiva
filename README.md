@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Poloju Shiva Kumar
+# 👋 Hi, I'm Shiva Kumar Poloju
 
 ### 🚀 Software Engineer & Data Science Professional
 I bridge the gap between robust software engineering and data-driven insights. From building scalable applications to uncovering hidden patterns in data, I love solving complex algorithmic puzzles and turning raw data into compelling stories.
@@ -41,6 +41,4 @@ I bridge the gap between robust software engineering and data-driven insights. F
 
 ### 🤝 Let's Connect!
 *   *LinkedIn:* (https://linkedin.com/in/shivapoloju)
-*   *Portfolio / Email:* (mailto:your.shivakumarpoloju2003@gmail.com.com)
-
-⚡ “In God we trust, all others must bring data.”
+*   *Portfolio / Email:* (mailto:your.shivakumarpoloju2003@gmail.com)
