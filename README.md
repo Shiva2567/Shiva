@@ -40,7 +40,7 @@ I bridge the gap between robust software engineering and data-driven insights. F
 ---
 
 ### 🤝 Let's Connect!
-*   *LinkedIn:* [linkedin.com/in/your-profile](https://linkedin.com/in/shivapoloju)
-*   *Portfolio / Email:* [your.email@example.com](mailto:your.shivakumarpoloju2003@gmail.com.com)
+*   *LinkedIn:* (https://linkedin.com/in/shivapoloju)
+*   *Portfolio / Email:* (mailto:your.shivakumarpoloju2003@gmail.com.com)
 
 ⚡ “In God we trust, all others must bring data.”
