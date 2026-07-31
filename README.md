@@ -27,7 +27,7 @@ I'm **POLOJU Shivakumar** — a passionate developer who loves building secure b
 - 🎓 B.Tech CSE — Sree Chaitanya Institute of Technological Sciences, Karimnagar
 - ☕ Core skills: Java | J2EE | Servlets | JDBC | MySQL
 - 🌱 Currently learning: MERN Stack (MongoDB, Express, React, Node.js)
-- 🔐 Built: Encrypted Deduplication System & Online Ticket Booking App
+- 🔐 Built: Encrypted Deduplication System
 - 🧪 Strong QA mindset — test cases, defect tracking & validation
 - 📍 Karimnagar, Telangana, India 🇮🇳
 - ⚡ Believe in clean code, testing, and constant growth
